@@ -22,7 +22,7 @@ class CreateGameButton extends PureComponent {
           icon={<StarIcon />} />
       </div>
     )
-  }
+  } 
 }
 
 const mapStateToProps = ({ currentUser }) => ({
